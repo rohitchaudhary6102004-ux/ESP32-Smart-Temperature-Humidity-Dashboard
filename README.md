@@ -104,7 +104,7 @@ ESP32-Smart-Temperature-Humidity-Dashboard
 ## Author
 
 ```
-**Rohit Chaudhary**
+Rohit Chaudhary
 
 Engineering Student | IoT & Embedded Systems Enthusiast
 
