@@ -102,10 +102,6 @@ ESP32-Smart-Temperature-Humidity-Dashboard/
 └── README.md
 ```
 
-## Dashboard Screenshot
-
-(Ye dashboard ka screenshot)
-
 ## Author
 
 **Rohit Chaudhary**
